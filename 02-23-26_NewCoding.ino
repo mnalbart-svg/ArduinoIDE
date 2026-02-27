@@ -18,12 +18,12 @@
 //           Pinout 
 //=============================
 static const int PIN_TEMP_ADC   = 34;       // Thermistor ADC1
-static const int PIN_MOTOR_PWM  = 25;       // MDD3A PWM
-static const int PIN_MOTOR_DIR  = 26;       // MDD3A DIR
-static const int PIN_PUMP_PWM   = 33;       // PUMP PWM
-static const int PIN_SOLVALVE   = 23;       // Solenoid on/off
-static const int PIN_HEATING    = 22;       // SSR control
-static const int PIN_WATER_SENS = 19;       // Water level digital
+static const int PIN_MOTOR_PWM  = 18;       // MDD3A PWM
+static const int PIN_MOTOR_DIR  = 19;       // MDD3A DIR
+static const int PIN_PUMP_PWM   = 32;       // PUMP PWM
+static const int PIN_SOLVALVE   = 33;       // Solenoid on/off
+static const int PIN_HEATING    = 23;       // SSR control
+static const int PIN_WATER_SENS = 2;        // Water level digital
 
 
 //=============================
